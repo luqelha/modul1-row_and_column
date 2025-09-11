@@ -3,14 +3,12 @@
 Flutter menyediakan **widget layout** yang fleksibel untuk menata tampilan: **Row** dan **Column**.  
 Kedua widget ini digunakan untuk menempatkan widget lain secara **horizontal** (Row) atau **vertikal** (Column).
 
----
 
 ## 📌 Tentang Proyek
 
 **Nama Proyek:** row_and_column  
 **Deskripsi:** Proyek ini belajar tentang penggunaan **Row** dan **Column** untuk menata UI di Flutter.
 
----
 
 ## 📐 Row & Column
 
@@ -24,7 +22,6 @@ Kamu bisa mengatur posisi anak widget menggunakan properti seperti:
 - `mainAxisAlignment` → mengatur posisi sepanjang sumbu utama (horizontal untuk Row, vertikal untuk Column)  
 - `crossAxisAlignment` → mengatur posisi sepanjang sumbu silang  
 
----
 
 ## 💻 Contoh Kode
 
